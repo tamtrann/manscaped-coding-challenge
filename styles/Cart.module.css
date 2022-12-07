@@ -1,0 +1,30 @@
+.container {
+  background-color: #e5e5e5;
+  padding: 60px;
+  max-width: 860px;
+}
+
+.body {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.shipping {
+  max-width: 200px;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+.tag {
+  padding: 3px 9px;
+  border-radius: 30px;
+  color: #5a5a5a;
+  background-color: #d1d1d1;
+  font-weight: bold;
+}
+
+.footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding-top: 24px;
+  margin-top: 20px;
+}
